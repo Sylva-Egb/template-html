@@ -1,5 +1,5 @@
 header{
-    background-color: brown;
+    background-image: url();
 
 }
 button{
@@ -7,4 +7,10 @@ button{
 }
 main{
     background-color: black;
+}
+.div-accueil{
+    display: flex;
+}
+.div-accueil2{
+    border-right: 3px solid violet;
 }
